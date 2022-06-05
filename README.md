@@ -1,3 +1,3 @@
-![banner](./assets/banner.png)
+![new_banner](./assets/new_banner.png)
 
 # cv
