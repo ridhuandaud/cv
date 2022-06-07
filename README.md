@@ -1,5 +1,7 @@
 ![new_banner](./assets/new_banner.png)
 
+###### Social Links
+
 <a href="https://www.facebook.com/ridhuandaud" target="_blank">
 <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" />
 </a>
@@ -28,4 +30,8 @@
 <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" />
 </a>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ridhuandaud&theme=vue)](https://git.io/streak-stats)
+###### Tech Stacks
+
+<img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ridhuandaud&theme=gotham)](https://git.io/streak-stats)
