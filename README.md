@@ -27,3 +27,5 @@
 <a href="https://gitlab.com/oddox" target="_blank">
 <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" />
 </a>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ridhuandaud&theme=vue)](https://git.io/streak-stats)
